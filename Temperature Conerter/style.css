@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+    background-color:blanchedalmond;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  input[type="number"] {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }
+  *{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
